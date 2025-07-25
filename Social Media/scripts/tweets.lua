@@ -675,6 +675,313 @@ function Initialize()
              "@x_angelkawaii_x",
              "https://twitter.com/x_angelkawaii_x/status/1572160729998069761"
             }
+
+    a[89] = {
+             "",
+             80,
+             100,
+             "@x_angelkawaii_x",
+             "https://twitter.com/x_angelkawaii_x/status/1686326655089065984"
+            }
+
+    a[90] = {
+             "",
+             0,
+             0,
+             "@raincandy_U",
+             "https://twitter.com/nyalra/status/1665951206894870530"
+            }
+            
+    a[91] = {
+             "",
+             100,
+             100,
+             "@x_angelkawaii_x",
+             "https://twitter.com/x_angelkawaii_x/status/1691092373336625152"
+            }
+
+    a[92] = {
+             "Summer is here again",
+             100,
+             100,
+             "@x_angelkawaii_x",
+             "https://twitter.com/x_angelkawaii_x/status/1691092373336625152"
+            }
+
+    a[93] = {
+             "",
+             150,
+             100,
+             "@x_angelkawaii_x",
+             "https://twitter.com/x_angelkawaii_x/status/1678773285180567552"
+            }
+
+    a[94] = {
+             "Today is my birthday! \n\nI don't think birthdays have any meaning. Recordings of birthdays and the concept of dates are nothing more than a division made by people. But, there are cultures to celebrate such things. That's what makes human life worth it. It doesn't matter to me as an angel!\n\nBLESS",
+             200,
+             100,
+             "@x_angelkawaii_x",
+             "https://twitter.com/x_angelkawaii_x/status/1676970170726895619"
+            }
+
+    a[95] = {
+             "ALICE",
+             100,
+             100,
+             "@x_angelkawaii_x",
+             "https://twitter.com/x_angelkawaii_x/status/1673692106857279489"
+            }
+
+    a[96] = {
+             "",
+             80,
+             80,
+             "@x_angelkawaii_x",
+             "https://twitter.com/x_angelkawaii_x/status/1671129072125247491"
+            }  
+
+    a[97] = {
+             ":)",
+             120,
+             80,
+             "@x_angelkawaii_x",
+             "https://twitter.com/x_angelkawaii_x/status/1668664166708838402"
+            }
+
+    a[98] = {
+             "Internet Angel supports Virtual Net Idols",
+             150,
+             120,
+             "@x_angelkawaii_x",
+             "https://twitter.com/x_angelkawaii_x/status/1663511416845012992"
+            }
+
+    a[99] = {
+             "Going out to Tokyo",
+             150,
+             120,
+             "@x_angelkawaii_x",
+             "https://twitter.com/x_angelkawaii_x/status/1660651132253814784"
+            }
+
+    a[100] = {
+              "Come and see this real life size of me!",
+              150,
+              120,
+              "@x_angelkawaii_x",
+              "https://twitter.com/x_angelkawaii_x/status/1650885205035745285"
+             }
+
+    a[101] = {
+              "",
+              150,
+              120,
+              "@x_angelkawaii_x",
+              "https://twitter.com/x_angelkawaii_x/status/1648646892224655360"
+             }             
+
+    a[102] = {
+              "Leave the internet and seek true happiness.",
+              120,
+              100,
+              "@x_angelkawaii_x",
+              "https://twitter.com/x_angelkawaii_x/status/1640694078114234369"
+             }  
+             
+    a[103] = {
+              "",
+              150,
+              80,
+              "@x_angelkawaii_x",
+              "https://twitter.com/x_angelkawaii_x/status/1638489013735821319"
+             }  
+
+    a[104] = {
+              "I'm giving this chocolate to Otaku-kun. I just feel pityful that he doesn't receive chocolates from anyone and I don't like him feeling that way.",
+              180,
+              100,
+              "@x_angelkawaii_x",
+              "https://twitter.com/x_angelkawaii_x/status/1625448650121048064"
+             }
+
+    a[105] = {
+              "help me.",
+              200,
+              180,
+              "@x_angelkawaii_x",
+              "https://twitter.com/x_angelkawaii_x/status/1620806636641353731"
+             }
+
+    a[106] = {
+              "Look at me shine.",
+              200,
+              180,
+              "@x_angelkawaii_x",
+              "https://twitter.com/x_angelkawaii_x/status/1618211755112660992"
+             }
+
+    a[107] = {
+              "<3",
+              180,
+              180,
+              "@x_angelkawaii_x",
+              "https://twitter.com/x_angelkawaii_x/status/16153467332231454722"
+             }
+
+    a[108] = {
+              "If this is the path to happiness, then walking this path must be indeed happiness.",
+              200,
+              180,
+              "@x_angelkawaii_x",
+              "https://twitter.com/x_angelkawaii_x/status/1610617268194639878"
+             }
+
+    a[109] = {
+              "",
+              0,
+              0,
+              "@raincandy_U",
+              "https://twitter.com/nyalra/status/1688513704940511232"
+             }
+
+    a[110] = {
+              "A ray of light, illuminating the chaotic internet of today. Bringing happiness to the otaku floating in this electronic sea! A promise of future peace; manic and moody but it's alright, the Internet Angel has descended!",
+              350,
+              300,
+              "@x_angelkawaii_x",
+              "https://x.com/x_angelkawaii_x/status/1716464584360657019/"
+             }
+             
+    a[111] = {
+              "",
+              200,
+              150,
+              "@x_angelkawaii_x",
+              "https://x.com/x_angelkawaii_x/status/1706276245166858580/"
+             }
+
+    a[112] = {
+              "",
+              200,
+              150,
+              "@x_angelkawaii_x",
+              "https://x.com/x_angelkawaii_x/status/1711341970210373761/"
+             }
+
+    a[113] = {
+              "Chains ~Fallen Angel~",
+              250,
+              150,
+              "@x_angelkawaii_x",
+              "https://x.com/x_angelkawaii_x/status/1736759246753349667/"
+             }
+
+    a[114] = {
+              "Today's a holy night",
+              200,
+              200,
+              "@x_angelkawaii_x",
+              "https://x.com/x_angelkawaii_x/status/1738915204245995914/"
+             }
+
+    a[115] = {
+              "I just went to the commemorative live broadcast! Today's NEEDY STREAMER's 2nd Anniversary! Happy 2nd Birthday, KAngel!!",
+              200,
+              200,
+              "@x_angelkawaii_x",
+              "https://x.com/x_angelkawaii_x/status/1749032925155430586/"
+             }
+
+    a[116] = {
+              "Moon Rainbow Butterfly",
+              200,
+              200,
+              "@x_angelkawaii_x",
+              "https://x.com/x_angelkawaii_x/status/1754864505128145159/"
+             }
+
+    a[117] = {
+              "My White Day Gift",
+              350,
+              300,
+              "@x_angelkawaii_x",
+              "https://x.com/x_angelkawaii_x/status/1767933880693350437/"
+             }
+
+    a[118] = {
+              "INTERNET IS FUCKING AWESOME!",
+              400,
+              350,
+              "@x_angelkawaii_x",
+              "https://x.com/x_angelkawaii_x/status/1771894360550076610/"
+             }
+
+    a[119] = {
+              "I'll be shaking hands with Puppet KAngel in Makuhari this end of the month!",
+              250,
+              100,
+              "@x_angelkawaii_x",
+              "https://x.com/x_angelkawaii_x/status/1782468793106825657/"
+             }
+
+    a[120] = {
+              "",
+              200,
+              150,
+              "@x_angelkawaii_x",
+              "https://x.com/x_angelkawaii_x/status/1790379588410876131/"
+             }
+
+    a[121] = {
+              "",
+              0,
+              0,
+              "@raincandy_U",
+              "https://x.com/nyalra/status/1797663832355344592/"
+             }
+
+    a[122] = {
+              "Gyaru Twin Kawaii!",
+              0,
+              0,
+              "@raincandy_U",
+              "https://x.com/nyalra/status/1792619511151026509/"
+             }
+
+    a[123] = {
+              "Brain Damage",
+              0,
+              0,
+              "@raincandy_U",
+              "https://x.com/nyalra/status/1777296807988703741/"
+             }
+
+    a[124] = {
+              "",
+              0,
+              0,
+              "@raincandy_U",
+              "https://x.com/nyalra/status/1729113872513262031/"
+             }
+
+    a[125] = {
+              "I will never allow boring adults to bind people with vague ideas of right and wrong, and I will sing rock and roll to my lonely neighbors for the sake of freedom.",
+              0,
+              0,
+              "@raincandy_U",
+              "https://x.com/nyalra/status/1770460597928521919/"
+             }
+
+    a[126] = {
+              "",
+              0,
+              0,
+              "@raincandy_U",
+              "https://x.com/nyalra/status/1701219790931849593/"
+             }
+
+
+             
     end
 
 function Update()
